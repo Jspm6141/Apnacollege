@@ -1,4 +1,4 @@
 # Apnacollege
 This is my first Git Repository.
 <br>
-Author - Gaurav Devkar
+Author - Gaurav (Apna college)
